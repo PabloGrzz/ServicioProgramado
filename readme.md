@@ -1,3 +1,5 @@
+https://github.com/PabloGrzz/ServicioProgramado.git
+
 Este proyecto en Java proporciona un servicio de recordatorio que avisa a los usuarios cuando es hora de tomar un descanso. Los usuarios pueden configurar el intervalo de tiempo entre recordatorios, la duración del descanso y el número máximo de recordatorios que desean recibir.
 
 Requisitos
